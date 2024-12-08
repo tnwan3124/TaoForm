@@ -1,0 +1,17 @@
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\bin\Debug\net8.0-windows\TaoFrom.exe
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\bin\Debug\net8.0-windows\TaoFrom.deps.json
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\bin\Debug\net8.0-windows\TaoFrom.runtimeconfig.json
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\bin\Debug\net8.0-windows\TaoFrom.dll
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\bin\Debug\net8.0-windows\TaoFrom.pdb
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.Form1.resources
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.Form2.resources
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.csproj.GenerateResource.cache
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.AssemblyInfoInputs.cache
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.AssemblyInfo.cs
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.csproj.CoreCompileInputs.cache
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.dll
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\refint\TaoFrom.dll
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.pdb
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\TaoFrom.genruntimeconfig.cache
+C:\C#\Bai_Tap_Tren_Truong\TaoFrom\TaoFrom\obj\Debug\net8.0-windows\ref\TaoFrom.dll
